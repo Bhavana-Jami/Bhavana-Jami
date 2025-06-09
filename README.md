@@ -10,7 +10,7 @@
 - 🎨 Passionate about combining code & creativity
 - 💼 Frontend Developer at TCS (Lloyds Banking Group project)
 - 🌱 Learning: GraphQL, Firebase, TypeScript
-- 📝 Writing at: [iambluewonk.web.app](https://iambluewonk.com)
+- 📝 Writing at: [iambluewonk.com](https://iambluewonk.com)
 
 ---
 
